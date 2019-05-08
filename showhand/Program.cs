@@ -150,7 +150,7 @@ namespace showhand
 
         static int P1Bet(ref int bet, ref int pot)
         {
-            int bbet = bet;
+            int bbet = bet;//bet為P1下注金額，先存在bbet裡
             if (bet != 0)
             {
                 Console.WriteLine("P1籌碼：{0}\n底池：{1}", p1chips, pot);
@@ -160,7 +160,7 @@ namespace showhand
             {
                 Console.WriteLine("P1過牌，P2是否過牌或加注，過牌輸入0.加注輸入金額：");
             }
-            bet = Convert.ToInt32(Console.ReadLine());
+            bet = Convert.ToInt32(Console.ReadLine());//P2寫入下注金額
             if (bet > 0)
             {
                 p2chips -= (bet + bbet);
