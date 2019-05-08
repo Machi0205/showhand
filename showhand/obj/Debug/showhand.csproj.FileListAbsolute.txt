@@ -1,0 +1,7 @@
+C:\Users\a1030\source\repos\showhand\showhand\bin\Debug\showhand.exe.config
+C:\Users\a1030\source\repos\showhand\showhand\bin\Debug\showhand.exe
+C:\Users\a1030\source\repos\showhand\showhand\bin\Debug\showhand.pdb
+C:\Users\a1030\source\repos\showhand\showhand\obj\Debug\showhand.csprojAssemblyReference.cache
+C:\Users\a1030\source\repos\showhand\showhand\obj\Debug\showhand.csproj.CoreCompileInputs.cache
+C:\Users\a1030\source\repos\showhand\showhand\obj\Debug\showhand.exe
+C:\Users\a1030\source\repos\showhand\showhand\obj\Debug\showhand.pdb
